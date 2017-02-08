@@ -6,13 +6,18 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | L | - | Crop and position lab demo
+1 | L | - | Moving crop lab to a menu
+3 | L | - | Implement Crop to slide
+1 | L | - | Fixing crop to slide for rotated pictures
 ---
 ### Week 3
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [`#1079`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1079) | Colors Lab: Panel missing scroll bar
+2 | L | - | Writing tests for crop to slide
+4 | L | - | Actually fixing crop to slide for rotated pictures (Had problems previously)
 
 ---
 ### Week 4

@@ -24,6 +24,19 @@
 * Expert areas: C#, UIX, Testing
 * Projects: freeCodeCamp, NUnit, PowerPointLabs
 
+
+## IAN TEO ZHI WEN
+
+<img src="ianTeo/IanTeo.png" width="100" /><br>
+[[Resume](ianTeo/IanTeo-Resume.md)]
+[[Website]()]
+[[Github Profile](https://github.com/IanTeo)]
+[[Progress](ianTeo/IanTeo-Progress.md)]
+
+* Expert areas: C#, Performance, Testing
+* Projects: PowerPointLabs, Electron, Duality
+
+
 ## JAMOS TAY
 
 <img src="jamosTay/JamosTay.png" width="100" /><br>
@@ -34,18 +47,6 @@
 
 * Expert areas: C#, Databases, Regex
 * Projects: PowerPointLabs
-
-
-## IAN TEO ZHI WEN
-
-<img src="ianTeo/IanTeo.png" width="100" /><br>
-[[Resume](ianTeo/IanTeo-Resume.md)]
-[[Website]()]
-[[Github Profile](https://github.com/IanTeo)]
-[[Progress](ianTeo/IanTeo-Progress.md)]
-
-* Expert areas: C#, Performance, Profilers
-* Projects: PowerPointLabs, Electron, Duality
 
 
 ## LOH JIA SHUN KENNETH
@@ -69,7 +70,7 @@
 [[Progress](ongHengLe/OngHengLe-Progress.md)]
 
 * Expert areas: C#, Performance, Visual Studio Profiling Tools 
-* Projects: PowerPointLabs, Visual Studio Code
+* Projects: [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs), [Visual Studio Code](https://github.com/Microsoft/vscode)
 
 
 ## SYED ABDULLAH B SYED SHEIKH
@@ -240,8 +241,8 @@
 [[Github Profile](https://github.com/xpdavid)]
 [[Progress](xiaoPu/xiaoPu-Progress.md)]
 
-* Expert areas: Java, Static analysis
-* Projects: JUnit, phpmyadmin, Teammates
+* Expert areas: Java, Static Analysis
+* Projects: Teammates, Checkstyle
 
 
 ## YANG BOXIN

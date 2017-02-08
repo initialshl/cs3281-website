@@ -6,14 +6,15 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-|||
++1 | L | - | Caption lab and Narration lab demo
++8 | L | - | Progress on SyncLab (Create sidebar, format list and fill copy)
 
 ---
 ### Week 3
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-||| 
++16 | L | - | Progress on SyncLab (Worked on syncing fill and outlines)
 
 ---
 ### Week 4
