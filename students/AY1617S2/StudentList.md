@@ -21,7 +21,7 @@
 [[Github Profile](https://github.com/AngShiYa)]
 [[Progress](shiYa/ShiYa-Progress.md)]
 
-* Expert areas: C#, UIX, Testing
+* Expert areas: C#, UI/UX, Analytics
 * Projects: freeCodeCamp, NUnit, PowerPointLabs
 
 
@@ -115,7 +115,7 @@
 ## HUANG CHAO
 
 <img src="huangChao/HuangChao.png" width="100" /><br>
-[[Resume](huangChao/HuangChao-Resume.html)]
+[[Resume](huangChao/HuangChao-Resume.md)]
 [[Website](https://chao1995.github.io/blog/)]
 [[Github Profile](https://github.com/chao1995)]
 [[Progress](huangChao/HuangChao-Progress.md)]
@@ -142,8 +142,8 @@
 [[Github Profile](https://github.com/yamgent)]
 [[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
-* Expert areas: Testing (JUnit), Java, Security
-* Projects: GitHub's Electron, Addressbook
+* Expert areas: Security, Java, Garbage Collection
+* Projects: [GitHub's Electron](https://github.com/electron/electron), [SE-EDU](https://github.com/se-edu)
 
 ------------------------------------------------
 
@@ -169,8 +169,8 @@
 [[Github Profile](https://github.com/leeyimin)]
 [[Progress](leeYiMin/leeYiMin-Progress.md)]
 
-* Expert areas: Java, Dev Ops (Gradle), Optimization
-* Projects: TEAMMATES
+* Expert areas: Java, Dev Ops (Gradle), Ruby on Rails
+* Projects: TEAMMATES, ESLint
 
 
 ## LI KAI
@@ -194,7 +194,7 @@
 [[Progress](dicksonTan/DicksonTan-Progress.md)]
 
 * Expert areas: python, security, functional programming
-* Projects: TEAMMATES
+* Projects: TEAMMATES, Scikit-Learn, SymPy
 
 
 ## TAN MIN RONG SAMSON
@@ -249,11 +249,11 @@
 
 <img src="yangBoxin/YangBoxin.png" width="100" /><br>
 [[Resume](yangBoxin/YangBoxin-Resume.md)]
-[[Website](https://github.com/greed-is-good)]
-[[Github Profile](https://github.com/greed-is-good)]
+[[Website](https://github.com/boxin-yang)]
+[[Github Profile](https://github.com/boxin-yang)]
 [[Progress](yangBoxin/YangBoxin-Progress.md)]
 
-* Expert areas: Java, Security, Machine Learning
+* Expert areas: C, Security, Machine Learning
 * Projects: [zulip](https://github.com/zulip/zulip), [TEAMMATES](https://github.com/TEAMMATES/teammates)
 
 

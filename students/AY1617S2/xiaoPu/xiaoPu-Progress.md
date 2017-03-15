@@ -45,11 +45,28 @@ Effort | Work
 ---
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6600`](https://github.com/TEAMMATES/teammates/pull/6600) | Add CommentSearchTest to test searching for comments #6549
+4 | D | [`#6546`](https://github.com/TEAMMATES/teammates/pull/6546) |instructorStudentList: add a 'mailto' link under the list of emails #1682
+
 ---
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6628`](https://github.com/TEAMMATES/teammates/pull/6628) | InstructorStudentListPageUiTest failing on live server #6620
+4 | R | [`#6577`](https://github.com/TEAMMATES/teammates/pull/6577) | Add InstructorSearchTest to test searching for instructors #6551
+4 | R | [`#6652`](https://github.com/TEAMMATES/teammates/pull/6652) | Fix some violations reported by FindBugs #6646
+
 ---
 ### Week 8
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6655`](https://github.com/TEAMMATES/teammates/pull/6655) | Implement AdminActivityLogPageActionTest #6654
+2 | D | [`#6686`](https://github.com/TEAMMATES/teammates/pull/6686) | Bug: Student received submission confirmation but the responses are not recorded #6643
+1 | R | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace #6666
+
 
 ---
 ### Week 9

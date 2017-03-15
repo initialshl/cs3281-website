@@ -45,14 +45,16 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#6660`](https://github.com/TEAMMATES/teammates/pull/6660) | Remove unused parameter in FeedbackResponseCommentsLogic.java
+4 | D | [`#6529`](https://github.com/TEAMMATES/teammates/pull/6529) | Admin create account: Cannot send Ajax Request!
+1 | R | [`#6630`](https://github.com/TEAMMATES/teammates/pull/6630) | Current static analysis checks don't flag invalid JSON
 
 ---
 ### Week 8
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | R | [`#6578`](https://github.com/TEAMMATES/teammates/pull/6578) | Refactor FeedbackSessionsLogic#getFeedbackSessionResultsForUserWithParams
 
 ---
 ### Week 9

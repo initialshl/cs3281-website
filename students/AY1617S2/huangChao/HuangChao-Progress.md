@@ -40,6 +40,11 @@ Effort| Type | PR | Issue
 
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#253`](https://github.com/se-edu/addressbook-level4/pull/253) | Add unit tests for person's fields classes
+2 | R | [`#272`](https://github.com/se-edu/addressbook-level4/pull/272) | Split Parser into command-specific classes
+
 ---
 
 ### Week 7
@@ -47,6 +52,10 @@ Effort| Type | PR | Issue
 ---
 
 ### Week 8
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#179`](https://github.com/se-edu/addressbook-level2/pull/179) | Addressbook::addTag() is not used
 
 ---
 

@@ -45,13 +45,28 @@
 
 ### Week 6
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2   |  D   | [`#6581`](https://github.com/TEAMMATES/teammates/pull/6581) | Enrolling a new student deletes previous student in the list |
+|  1   |  R   | [`#6600`](https://github.com/TEAMMATES/teammates/pull/6600) | Add CommentSearchTest to test searching for comments |
+
 ---
 
 ### Week 7
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  D   | [`#6630`](https://github.com/TEAMMATES/teammates/pull/6630) | Current static analysis checks don't flag invalid JSON  |
+|  2   |  D   | [`#6665`](https://github.com/TEAMMATES/teammates/pull/6665) | Bug Report: Changing visibility type unchecks all checkbox controls |
+|  1   |  D   | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace |
+
 ---
 
 ### Week 8
+
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2   |  R   | [`#6655`](https://github.com/TEAMMATES/teammates/pull/6655) | Implement AdminActivityLogPageActionTest |
 
 ---
 

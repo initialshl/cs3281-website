@@ -10,6 +10,7 @@ Effort| Type | PR | Issue
 2 | L | - | Shapes Lab and Effects Lab demo
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
@@ -19,6 +20,7 @@ Effort| Type | PR | Issue
 2 | L | - | Add dialog box for custom crop aspect ratio
 
 ---
+
 ### Week 4
 
 Effort| Type | PR | Issue
@@ -31,6 +33,7 @@ Effort| Type | PR | Issue
 1 | L | - | Functional tests for crop to aspect ratio
 
 ---
+
 ### Week 5
 
 Effort| Type | PR | Issue
@@ -45,27 +48,42 @@ Effort| Type | PR | Issue
 1 | L | - | Merge Jamos and Heng Le's Crop Lab features
 
 ---
+
 ### Week 6
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#1118`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1118) | [story] user can see a moving magnifier near the tip of the eyedropper #511
+1 | R | [`#1122`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1122) | Move Remove Highlight test to Unit Test
+1 | R | [`#1137`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1137) | PasteLab: Core + Paste to Fill Slide
+1 | L | - | Convert Crop Lab from WinForm to WPF
+1 | L | - | Convert Crop Lab to Action Framework (CropOutPadding, CropToAspectRatio)
+1 | L | - | Remake Crop Lab icons in .pptx (CropOutPadding, CropToAspectRatio)
 
 ---
+
 ### Week 7
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#1163`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1163) | Colors Lab: Selected color shifts to a certain brightness/saturation #1162
+1 | R | [`#1148`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1148) | FT_PositionsLabDuplicateAndRotate typo #1147
+1 | R | [`#1152`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1152) | Double clicking 'Create Spotlight' causing crash #1151 
+1 | R | [`#1155`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1155) | Allow user to minimize panes by clicking menu button #1154
 
 ---
+
 ### Week 8
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#1158`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1158) | Crop Lab: Merge new features from PowerPointLabs-AY1617
+4 | D | [`#1159`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1159) | Optimize Magnify feature for picture #631
+1 | R | [`#1139`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1139) | StyleCop: Enable Access Modifier ordering rules #1081 
+1 | R | [`#1142`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1142) | PasteLab: Add core functionality and Paste to Fill Slide #1138
 
 ---
+
 ### Week 9
 
 Effort| Type | PR | Issue
@@ -73,6 +91,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 10
 
 Effort| Type | PR | Issue
@@ -80,6 +99,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 11
 
 Effort| Type | PR | Issue
@@ -87,6 +107,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 12
 
 Effort| Type | PR | Issue
@@ -94,6 +115,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 13
 
 Effort| Type | PR | Issue
